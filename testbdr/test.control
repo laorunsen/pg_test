@@ -1,0 +1,6 @@
+# test extension
+ 
+comment = 'only test publication'
+default_version = '1.0'
+module_pathname = '$libdir/test'
+relocatable = true
